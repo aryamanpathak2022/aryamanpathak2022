@@ -7,8 +7,8 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hii, ɪ'ᴍ Aryaman! 
-*Software Developer*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hii, I'm Aryaman! 
+
 <br /> 
 
 <!--Start Intro-->               
