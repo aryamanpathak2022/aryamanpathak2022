@@ -69,8 +69,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/aryamanpathak2022/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=aryamanpathak2022&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/aryamanpathak2022/Sentimental_analysis_wn">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=aryamanpathak2022&repo=Sentimental_analysis_wn&theme=nightowl&show_owner=true" alt="Sentimental_analysis_wn" />
         </a>
       </p>
     </td>
