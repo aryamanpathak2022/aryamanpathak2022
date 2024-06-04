@@ -240,7 +240,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-   [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
+ <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms" alt="Github Readme Daily Quotes">
 
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
