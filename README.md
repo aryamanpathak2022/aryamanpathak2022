@@ -16,6 +16,7 @@
 
 - ✨ Student at IIITB :)
 - ❤ Contributing to Open Source.
+- 😶‍🌫️ (Portfolio)[https://tinyurl.com/aryamanpathak]
 <!--End Intro-->
 
 <!--Profile Count Badge-->
