@@ -387,7 +387,6 @@
 
 
 
-
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
@@ -402,6 +401,10 @@
 
 <a href="https://www.instagram.com/aryaman__pathak" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/aryaman__pathak" target="_blank">
+<img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
 
 </div>
