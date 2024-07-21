@@ -1,9 +1,12 @@
 <!--Banner-->
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
+
 ![aryamanpathak2022 Banner Image](./image.png)
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+ <dotlottie-player src="https://lottie.host/c7397759-c73c-4dac-a36f-523296a25310/DMFBJKZNpL.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
+
 </div>
 
 <!--Header Name-->
