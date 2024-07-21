@@ -5,7 +5,7 @@
 
 <!--Night Owl image-->
 <div>
- <dotlottie-player src="https://lottie.host/c7397759-c73c-4dac-a36f-523296a25310/DMFBJKZNpL.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
+![aryamanpathak2022 Banner Image](./ap.gif)
 
 </div>
 
