@@ -1,13 +1,12 @@
-<!--Banner-->
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
+
 
 ![aryamanpathak2022 Banner Image](./image.png)
 
 <!--Night Owl image-->
-<div>
+
 ![aryamanpathak2022 Banner Image](./ap.gif)
 
-</div>
+
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hii, I'm Aryaman! 
