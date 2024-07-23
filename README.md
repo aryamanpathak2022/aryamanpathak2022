@@ -3,9 +3,7 @@
 ![aryamanpathak2022 Banner Image](./image.png)
 
 <!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="./ap.gif">
-</div>
+
 
 
 
@@ -16,7 +14,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast </p>
+<p align="centre">I am a Full Stack Developer and Machine Learning Enthusiast </p>
 
 - ✨ Student at IIITB :)
 - ❤ Contributing to Open Source.
