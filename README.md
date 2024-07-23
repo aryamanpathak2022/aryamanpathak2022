@@ -20,7 +20,7 @@
 
 - ✨ Student at IIITB :)
 - ❤ Contributing to Open Source.
-- 😶‍🌫️ [Portfolio](https://tinyurl.com/aryamanpathak)
+- 😶‍🌫️ [Portfolio](https://aryaman-pathak.vercel.app/)
 <!--End Intro-->
 
 <!--Profile Count Badge-->
