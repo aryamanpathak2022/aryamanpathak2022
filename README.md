@@ -14,7 +14,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="centre">I am a Full Stack Developer and Machine Learning Enthusiast </p>
+<p align="center">I am a Full Stack Developer and Machine Learning Enthusiast </p>
 
 - ✨ Student at IIITB :)
 - ❤ Contributing to Open Source.
