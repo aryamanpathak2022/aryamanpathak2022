@@ -11,18 +11,18 @@
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hii, I'm Aryaman! 
 
-<br /> 
+<br align="center" /> 
 
 <!--Start Intro-->               
 <p align="center">I am a Full Stack Developer and Machine Learning Enthusiast </p>
 
-- ✨ Student at IIITB :)
-- ❤ Contributing to Open Source.
-- 😶‍🌫️ [Portfolio](https://tinyurl.com/aryamanpathak)
+<p align="center"> - ✨ Student at IIITB :) </p>
+ <p align="center"> - ❤ Contributing to Open Source. </p>
+<p align="center"> - 😶‍🌫️ [Portfolio](https://tinyurl.com/aryamanpathak) </p>
 <!--End Intro-->
 
 <!--Profile Count Badge-->
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryamanpathak2022&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="aryamanpathak2022" style="padding-right:20px;" />
 </p>
 
