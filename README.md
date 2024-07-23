@@ -15,13 +15,13 @@
 
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast </p>
-- ✨ Student at IIITB :) 
-- ❤ Contributing to Open Source.
-- 😶‍🌫️ [Portfolio](https://tinyurl.com/aryamanpathak) 
+-✨ Student at IIITB :) 
+-❤ Contributing to Open Source.
+-😶‍🌫️ [Portfolio](https://tinyurl.com/aryamanpathak) 
 <!--End Intro-->
 
 <!--Profile Count Badge-->
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=aryamanpathak2022&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="aryamanpathak2022" style="padding-right:20px;" />
 </p>
 
