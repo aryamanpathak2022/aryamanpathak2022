@@ -4,7 +4,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://lottie.host/ce8d5cbe-9754-4e4a-b60b-e17f6df1ed03/GLL2sFEfdE.json">
 </div>
 
 
