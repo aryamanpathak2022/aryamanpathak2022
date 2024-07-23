@@ -9,17 +9,15 @@
 
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-<p align="center">Hii, I'm Aryaman!   </p>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hii, I'm Aryaman!  
 
 <br align="center" /> 
 
 <!--Start Intro-->               
-<p align="center">I am a Full Stack Developer and Machine Learning Enthusiast </p>
-
-<p align="center"> - ✨ Student at IIITB :) </p>
- <p align="center"> - ❤ Contributing to Open Source. </p>
-<p align="center"> - 😶‍🌫️ [Portfolio](https://tinyurl.com/aryamanpathak) </p>
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast </p>
+ - ✨ Student at IIITB :) 
+- ❤ Contributing to Open Source.
+ - 😶‍🌫️ [Portfolio](https://tinyurl.com/aryamanpathak) 
 <!--End Intro-->
 
 <!--Profile Count Badge-->
