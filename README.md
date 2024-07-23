@@ -11,13 +11,13 @@
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hii, I'm Aryaman!  
 
-<br align="center" /> 
+<br  /> 
 
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast </p>
- - ✨ Student at IIITB :) 
+- ✨ Student at IIITB :) 
 - ❤ Contributing to Open Source.
- - 😶‍🌫️ [Portfolio](https://tinyurl.com/aryamanpathak) 
+- 😶‍🌫️ [Portfolio](https://tinyurl.com/aryamanpathak) 
 <!--End Intro-->
 
 <!--Profile Count Badge-->
