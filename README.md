@@ -21,6 +21,7 @@
 - ✨ Student at IIITB :)
 - ❤ Contributing to Open Source.
 - 😶‍🌫️ [Portfolio](https://aryaman-pathak.vercel.app/)
+- 🖥️ [My Projects ](https://aryamanproject.vercel.app/)
 <!--End Intro-->
 
 <!--Profile Count Badge-->
