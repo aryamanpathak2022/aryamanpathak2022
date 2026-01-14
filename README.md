@@ -20,48 +20,6 @@
 </p>
 <br />
 
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/aryamanpathak2022/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aryamanpathak2022&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies" />
-  </a>
-</p>
-<br />
-
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <a href="https://github.com/aryamanpathak2022">
-        <img src="https://github-readme-stats.vercel.app/api?username=aryamanpathak2022&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" width="400" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <a href="https://github.com/aryamanpathak2022">
-        <img src="https://streak-stats.demolab.com?user=aryamanpathak2022&theme=nightowl&hide_border=true" alt="Streak Stats" width="400" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <a href="https://github.com/aryamanpathak2022/Sentimental_analysis_wn">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamanpathak2022&repo=Sentimental_analysis_wn&theme=nightowl&hide_border=true" alt="Sentimental_analysis_wn" width="400" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <a href="https://github.com/aryamanpathak2022">
-        <img src="https://github-contributor-stats.vercel.app/api?username=aryamanpathak2022&limit=3&theme=nightowl&combine_all_yearly_contributions=false" alt="Top Contributions" width="400" />
-      </a>
-    </td>
-  </tr>
-</table>
-<br />
-
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamanpathak2022&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" />
